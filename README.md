@@ -1,2 +1,2 @@
 # Shiftat
-Shiftat Test Project
+Shiftat Summer Training Project
